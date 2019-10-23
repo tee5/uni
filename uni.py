@@ -36,7 +36,6 @@ def is_connected():
     if voice_client is None:
         print(f"is_connected() E: False")
         return False
-        # return True
     else:
         print(f"is_connected() E: {voice_client.is_connected()}")
         return voice_client.is_connected()
