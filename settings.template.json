@@ -1,0 +1,14 @@
+{
+    "azure": {
+        "subscription_key": "1fedd3c87a3b4f11aa932da8a92d2091"
+    },
+    "discord": {
+        "access_token": "NjM2NTAzNjkwMDg5NTk0ODgw.XbBtgA.d-4aHdr-TSpgHB2mYEIztYkUiYk"
+    },
+    "application": {
+        "under_maintenance": true,
+        "is_debugging": true,
+        "voice_font": "Microsoft Server Speech Text to Speech Voice (ja-JP, HarukaRUS)"
+    }
+}
+
